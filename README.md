@@ -9,11 +9,15 @@ The game can be controlled by keyboard in the terminal if the launch argument is
 For more information about the game and its development, read the [report](Rapport.docx) (swedish)
 
 ## Screenshots of the game being played at various difficulties:
-<img src="example_images/example0" alt="game screenshot" width="800"/>
-<img src="example_images/example1" alt="game screenshot" width="800"/>
-<img src="example_images/example2" alt="game screenshot" width="800"/>
-<img src="example_images/example3" alt="game screenshot" width="800"/>
-<img src="example_images/example4" alt="game screenshot" width="800"/>
+<img src="example_images/example0.jpg" width="800"/>
+
+<img src="example_images/example1.jpg" width="800"/>
+
+<img src="example_images/example2.jpg" width="800"/>
+
+<img src="example_images/example3.jpg" width="800"/>
+
+<img src="example_images/example4.jpg" width="800"/>
 
 ### Main menu
-<img src="example_images/menu" alt="game menu screenshot" width="800"/>
+<img src="example_images/menu.jpg" width="800"/>
